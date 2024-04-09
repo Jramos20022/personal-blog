@@ -23,9 +23,9 @@ nav button {
 
 aside {
     border-right: 2px solid black;
-    margin-right: 50%;
     height: 100%;
     float: left;
+   
 }
 
 main{
@@ -35,6 +35,7 @@ main{
     display: flex;
     justify-content: center;
     flex-direction: column;
+   
 }
 
 form{
@@ -52,7 +53,6 @@ form h2 {
 }
 
 form button {
-    background-color: black;
     color: white;
     width: 650px;
     height: 30px;
@@ -72,5 +72,6 @@ form button {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: xx-large;
+
 }
 
